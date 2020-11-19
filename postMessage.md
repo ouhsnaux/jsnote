@@ -1,6 +1,8 @@
+# postMessage
+
 * 语法
 
-```
+```js
   postMessage(content, origin);
   // content 为发送的信息
   // origin 为目标的域名，包括协议与主机名，端口可选
